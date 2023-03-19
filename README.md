@@ -13,8 +13,6 @@
 - [组件](#组件)
 - [调教案例](#调教案例)
 
-[↑ 返回目录 ↑](#目录)
-
 ## 应用
 
 - [ChatGPT Desktop ](https://github.com/lencx/ChatGPT)
@@ -29,6 +27,7 @@
 - [chatgpt-empower-wechat](https://github.com/JasonSTong/chatgpt-empower-wechat)
 > 使用chatgpt、wechaty-padlocal(降低封号概率)，可以快速建立属于自己的微信机器人。
 
+[↑ 返回目录 ↑](#目录)
 
 ## 组件
 - [openai-python](https://github.com/openai/openai-python)
@@ -40,6 +39,7 @@
 - [Node.js for chatgpt-api ★11.3k](https://github.com/transitive-bullshit/chatgpt-api)
 > 基于 Node.js 封装的调用 ChatGPT API 的库
 
+[↑ 返回目录 ↑](#目录)
 
 ## 调教案例
 
@@ -48,3 +48,5 @@
 
 - [ChatGPT 高质量回答集](https://l2tszbl819.feishu.cn/sheets/shtcnUozyuDgJwzT9fQiKtU53wf)
 > ChatGPT 高质量回答汇总，内容是猴哥自己整理网上和自己尝试调教的案例
+
+[↑ 返回目录 ↑](#目录)
