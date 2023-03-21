@@ -36,6 +36,9 @@
 - [chatgpt-empower-wechat](https://github.com/JasonSTong/chatgpt-empower-wechat)
 > 使用chatgpt、wechaty-padlocal(降低封号概率)，可以快速建立属于自己的微信机器人。
 
+- [ChatGPT plugin for JetBrains IDEA](https://github.com/dromara/ChatGPT)
+> 能跑在 JetBrains 全家桶上的 ChatGPT 插件
+
 [↑ 返回目录 ↑](#目录)
 <br><br>
 
@@ -67,7 +70,7 @@
 ## 浏览器插件
 
 - [talk-to-chatgpt](https://github.com/C-Nedelcu/talk-to-chatgpt)
-> ChatGPT 接入语音，具体用法可以见猴哥写的文档
+> 语音方式实现与 ChatGPT 兑换，具体用法可以见猴哥写的文档
 > [4 -【插件】PC 端语音对话 ChatGPT](https://l2tszbl819.feishu.cn/docx/SBCKdyN3Co5ayGxkkPfc8nm8nYg)
 
 [↑ 返回目录 ↑](#目录)
