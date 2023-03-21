@@ -33,6 +33,9 @@
 - [ChatWeb](https://github.com/SkywalkerDarren/chatWeb) 
 > ChatWeb可以爬取任意网页并提取正文，生成概要，然后根据正文内容回答你的问题。 目前是个原理展示的Demo，还没有细分逻辑。
 
+- [DocsGPT](https://github.com/arc53/DocsGPT)
+> 基于 ChatGPT 实现的文档搜索助手
+
 - [chatgpt-empower-wechat](https://github.com/JasonSTong/chatgpt-empower-wechat)
 > 使用chatgpt、wechaty-padlocal(降低封号概率)，可以快速建立属于自己的微信机器人。
 
@@ -79,5 +82,8 @@
 ## demo
 - [chatgpt-demo ★4.9](https://github.com/ddiu8081/chatgpt-demo)
 > 基于 ChatGPT 3.5 模型 API，搭建的 Web 网站，可以自己体验
+
+- [ChatGPT-Vercel](https://github.com/ourongxing/chatgpt-vercel)
+> 基于 chatgpt-demo 开发，能免费部署到 Vercel，搭建属于自己的 ChatGPT 网站
 
 [↑ 返回目录 ↑](#目录)
