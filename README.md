@@ -87,7 +87,10 @@
 - [chatgpt-demo ★4.9](https://github.com/ddiu8081/chatgpt-demo)
 > 基于 ChatGPT 3.5 模型 API，搭建的 Web 网站，可以自己体验
 
-- [ChatGPT-Vercel](https://github.com/ourongxing/chatgpt-vercel)
+- [chatgpt-web ★9.1k](https://github.com/Chanzhaoyu/chatgpt-web)
+> 用 Express 和 Vue3 搭建的 ChatGPT 演示网页
+
+- [ChatGPT-Vercel ★1.3k](https://github.com/ourongxing/chatgpt-vercel)
 > 基于 chatgpt-demo 开发，能免费部署到 Vercel，搭建属于自己的 ChatGPT 网站
 
 [↑ 返回目录 ↑](#目录)
