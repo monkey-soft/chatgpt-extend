@@ -24,6 +24,9 @@
 > 🚀 一键部署！真正的 ChatGPT QQ 聊天机器人！支持 ChatGPT API、 ChatGPT Plus、新版 Bing，多账号负载均衡，
 > 人设调教，敏感词检测，虚拟女仆、对话上下文，图片渲染，代理加速 (内有视频教程）
 
+- [chatgpt-empower-wechat](https://github.com/JasonSTong/chatgpt-empower-wechat)
+> 使用chatgpt、wechaty-padlocal(降低封号概率)，可以快速建立属于自己的微信机器人。
+
 - [feishu-chatgpt](https://github.com/Leizhenpeng/feishu-chatgpt)
 > 通过 lark，将 ChatGPT 接入飞书
 
@@ -36,11 +39,12 @@
 - [DocsGPT](https://github.com/arc53/DocsGPT)
 > 基于 ChatGPT 实现的文档搜索助手
 
-- [chatgpt-empower-wechat](https://github.com/JasonSTong/chatgpt-empower-wechat)
-> 使用chatgpt、wechaty-padlocal(降低封号概率)，可以快速建立属于自己的微信机器人。
-
 - [ChatGPT plugin for JetBrains IDEA](https://github.com/dromara/ChatGPT)
 > 能跑在 JetBrains 全家桶上的 ChatGPT 插件
+
+- [openai-translator](https://github.com/yetone/openai-translator)
+> 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用
+
 
 [↑ 返回目录 ↑](#目录)
 <br><br>
