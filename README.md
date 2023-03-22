@@ -27,11 +27,16 @@
 - [chatgpt-empower-wechat](https://github.com/JasonSTong/chatgpt-empower-wechat)
 > 使用chatgpt、wechaty-padlocal(降低封号概率)，可以快速建立属于自己的微信机器人。
 
+
+
 - [feishu-chatgpt](https://github.com/Leizhenpeng/feishu-chatgpt)
 > 通过 lark，将 ChatGPT 接入飞书
 
 - [ChatGPT-Feishu](https://github.com/bestony/ChatGPT-Feishu)
 > 给飞书准备的 ChatGPT 机器人，创建飞书应用的方式接入 ChatGPT
+
+- [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot)
+> 将ChatGPT整合到你自己的discord机器人中
 
 - [ChatWeb](https://github.com/SkywalkerDarren/chatWeb) 
 > ChatWeb可以爬取任意网页并提取正文，生成概要，然后根据正文内容回答你的问题。 目前是个原理展示的Demo，还没有细分逻辑。
