@@ -98,4 +98,7 @@
 - [ChatGPT-Vercel ★1.3k](https://github.com/ourongxing/chatgpt-vercel)
 > 基于 chatgpt-demo 开发，能免费部署到 Vercel，搭建属于自己的 ChatGPT 网站
 
+- [PyChatGPT](https://github.com/rawandahmad698/PyChatGPT))
+> ⚡ 非官方的 ChatGPT API的 Python 客户端，具有自动令牌再生、对话跟踪、代理支持等功能。
+
 [↑ 返回目录 ↑](#目录)
