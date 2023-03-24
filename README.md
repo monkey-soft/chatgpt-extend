@@ -11,7 +11,7 @@
 
 - [应用](#应用)
 - [组件](#组件)
-- [调教案例](#调教案例)
+- [调教攻略与案例](#调教攻略与案例)
 - [浏览器插件](#浏览器插件)
 - [demo](#demo)
 
@@ -26,8 +26,6 @@
 
 - [chatgpt-empower-wechat](https://github.com/JasonSTong/chatgpt-empower-wechat)
 > 使用chatgpt、wechaty-padlocal(降低封号概率)，可以快速建立属于自己的微信机器人。
-
-
 
 - [feishu-chatgpt](https://github.com/Leizhenpeng/feishu-chatgpt)
 > 通过 lark，将 ChatGPT 接入飞书
@@ -67,13 +65,18 @@
 [↑ 返回目录 ↑](#目录)
 <br><br>
 
-## 调教案例
+## 调教攻略与案例
 
 - [ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
 > ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话
 
-- [ChatGPT 高质量回答集](https://l2tszbl819.feishu.cn/sheets/shtcnUozyuDgJwzT9fQiKtU53wf)
+- [Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt)
+> 免费 Prompt Engineering 教程
+
+- [ChatGPT 调教案例](https://l2tszbl819.feishu.cn/sheets/shtcnUozyuDgJwzT9fQiKtU53wf)
 > ChatGPT 高质量回答汇总，内容是猴哥自己整理网上和自己尝试调教的案例
+
+
 
 [↑ 返回目录 ↑](#目录)
 <br><br>
