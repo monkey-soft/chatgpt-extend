@@ -48,6 +48,8 @@
 
 - [chatgpt-web ★9.1k](https://github.com/Chanzhaoyu/chatgpt-web) | 用 Express 和 Vue3 搭建的 ChatGPT 演示网页
 
+- [ChuanhuChatGPT ★7.7K](https://github.com/GaiZhenbiao/ChuanhuChatGPT) | 川虎 ChatGPT 为ChatGPT API提供了一个轻快好用的Web图形界面
+
 - [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) | 一键拥有你自己的 ChatGPT 网页服务。
 
 - [ChatGPT-Vercel ★1.3k](https://github.com/ourongxing/chatgpt-vercel) | 基于 chatgpt-demo 开发，能免费部署到 Vercel，搭建属于自己的 ChatGPT 网站
