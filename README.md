@@ -22,6 +22,8 @@
 
 - [chatgpt-mirai-qq-bot ★2.9k](https://github.com/lss233/chatgpt-mirai-qq-bot) | 🚀 一键部署！真正的 ChatGPT QQ 聊天机器人！支持 ChatGPT API、 ChatGPT Plus、新版 Bing，多账号负载均衡，人设调教，敏感词检测，虚拟女仆、对话上下文，图片渲染，代理加速 (内有视频教程）
 
+- [QChatGPT](https://github.com/RockChinQ/QChatGPT) | 😎高稳定性、🐒低耦合、🧩支持插件、适配多种模型的 ChatGPT New Bing QQ 机器人🤖
+
 - [chatgpt-empower-wechat](https://github.com/JasonSTong/chatgpt-empower-wechat) | 使用chatgpt、wechaty-padlocal(降低封号概率)，可以快速建立属于自己的微信机器人。
 
 - [feishu-chatgpt](https://github.com/Leizhenpeng/feishu-chatgpt) | 通过 lark，将 ChatGPT 接入飞书
