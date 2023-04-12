@@ -14,6 +14,7 @@
 - [调教攻略与案例](#调教攻略与案例)
 - [组件](#组件)
 - [浏览器插件](#浏览器插件)
+- [ChatGPT平替](ChaGPT平替)
 
 
 ## ChatGPT周边
@@ -94,6 +95,20 @@
 ## 浏览器插件
 
 - [talk-to-chatgpt](https://github.com/C-Nedelcu/talk-to-chatgpt) | 语音方式实现与 ChatGPT 兑换，具体用法可以见猴哥写的文档[4 -【插件】PC 端语音对话 ChatGPT](https://l2tszbl819.feishu.cn/docx/SBCKdyN3Co5ayGxkkPfc8nm8nYg)
+
+[↑ 返回目录 ↑](#目录)
+<br><br>
+
+
+## ChatGPT平替
+
+- [LLaMA ★17.9k](https://github.com/facebookresearch/llama) | Meta的LLaMA模型泄漏，它都能和GPT-3的性能相媲美
+
+- [stanford_alpaca ★20k](https://github.com/tatsu-lab/stanford_alpaca) | 斯坦福由Meta的LLaMA 7B微调而来的全新模型，仅用了52k数据，性能约等于GPT-3.5。关键是训练成本奇低，不到600美元。
+ 
+- [Vicuna]() | 来自UC伯克利、卡内基梅隆大学、斯坦福大学和加州大学圣地亚哥分校的研究人员开源了Vicuna，这是一个与GPT-4性能相匹配的LLaMA微调版本。
+
+- [FastChat ★12.9k](https://github.com/lm-sys/FastChat) | FreedomGPT使用Electron 和 React构建，允许用户在他们的本地机器上运行LLaMA，Vicuna的发行版本，能媲美 GPT-4。
 
 [↑ 返回目录 ↑](#目录)
 <br><br>
