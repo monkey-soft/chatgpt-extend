@@ -18,6 +18,10 @@
 
 ## ChatGPT周边
 
+- [auto-gpt ★30.3k](https://github.com/torantulino/auto-gpt) | 它是一个实验性的开源应用程序，展示了 GPT-4 语言模型的功能
+
+- [AgentGPT](https://github.com/reworkd/AgentGPT) | 可以在浏览器中组装、配置和部署自主 AI 智能体的项目
+
 - [ChatGPT Desktop ★23.6k](https://github.com/lencx/ChatGPT) | 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)，非官方版
 
 - [chatgpt-mirai-qq-bot ★2.9k](https://github.com/lss233/chatgpt-mirai-qq-bot) | 🚀 一键部署！真正的 ChatGPT QQ 聊天机器人！支持 ChatGPT API、 ChatGPT Plus、新版 Bing，多账号负载均衡，人设调教，敏感词检测，虚拟女仆、对话上下文，图片渲染，代理加速 (内有视频教程）
@@ -55,6 +59,8 @@
 - [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) | 一键拥有你自己的 ChatGPT 网页服务。
 
 - [ChatGPT-Vercel ★1.3k](https://github.com/ourongxing/chatgpt-vercel) | 基于 chatgpt-demo 开发，能免费部署到 Vercel，搭建属于自己的 ChatGPT 网站
+
+- [chatgpt_academic](https://github.com/binary-husky/chatgpt_academic) | 科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持自定义函数插件，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python/C++/Go项目树剖析功能/项目源代码自译解能力，新增PDF和Word文献批量总结功能/PDF论文全文翻译功能
 
 - [PyChatGPT](https://github.com/rawandahmad698/PyChatGPT) | ⚡ 非官方的 ChatGPT API的 Python 客户端，具有自动令牌再生、对话跟踪、代理支持等功能。
 
