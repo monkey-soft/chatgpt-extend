@@ -2,7 +2,7 @@
 
 本文收集了 ChatGPT 二次开发开发过程中会使用到的仓库、资料、问题以及第三方组件库。
 本文不是一篇关于如何学习 ChatGPT 的入门指南，也非参考手册，只是一些资料的整理。如果想入门学习 ChatGPT 相关的基础知识，
-可以阅读猴哥创作的 [ChatGPT 知识库与案例集](https://l2tszbl819.feishu.cn/docx/SBCKdyN3Co5ayGxkkPfc8nm8nYg) 飞书文档，本文档会长期更新。
+可以阅读猴哥创作的《ChatGPT 知识库与案例集》，本文档会长期更新。
 
 本仓库中的资料整理自网络。
 
@@ -13,7 +13,6 @@
 - [ChatGPT应用](#ChatGPT应用)
 - [调教攻略与案例](#调教攻略与案例)
 - [组件](#组件)
-- [浏览器插件](#浏览器插件)
 - [ChatGPT平替](ChaGPT平替)
 
 
@@ -90,15 +89,6 @@
 
 [↑ 返回目录 ↑](#目录)
 <br><br>
-
-
-## 浏览器插件
-
-- [talk-to-chatgpt](https://github.com/C-Nedelcu/talk-to-chatgpt) | 语音方式实现与 ChatGPT 兑换，具体用法可以见猴哥写的文档[4 -【插件】PC 端语音对话 ChatGPT](https://l2tszbl819.feishu.cn/docx/SBCKdyN3Co5ayGxkkPfc8nm8nYg)
-
-[↑ 返回目录 ↑](#目录)
-<br><br>
-
 
 ## ChatGPT平替
 
